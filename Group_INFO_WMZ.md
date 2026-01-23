@@ -23,9 +23,9 @@ The KISS principle in coding (Keep It Simple, Stupid).
 - **(individual) Assignment 2:** https://github.com/yourname/assignment2
 
 ### Member 3
-- **Student ID:** 34567890
-- **Name:** Michael Chen
-- **Brief Introduction:** Michael has expertise in data analysis and machine learning. He is responsible for algorithm design and performance optimization.
+- **Student ID:** 25128392G
+- **Name:** Bailin Lu
+- **Brief Introduction:** I'm familiar with Python,C coding, aslo can do single-board computer desighn like stm32
 - **(individual) Assignment 1:** https://github.com/yourname/assignment1
 - **(individual) Assignment 2:** https://github.com/yourname/assignment2
 
