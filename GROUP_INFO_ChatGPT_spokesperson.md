@@ -1,4 +1,4 @@
-# ChatGPT_spokesperson
+<img width="1045" height="199" alt="image" src="https://github.com/user-attachments/assets/a654a6a3-3314-4800-bc5f-ee271d5ce6d7" /># ChatGPT_spokesperson
 # Group Information
 # 📣 ChatGPT_spokesperson
 
@@ -41,8 +41,8 @@ We chose **ChatGPT_spokesperson** because we do not understand this course and a
 
 ## 📦 Group Projects
 - **(group) Final project:** https://github.com/Evelyn4k4k/AAE5303-ChatGPT_spokesperson-group-Project
-- **VO:** https://github.com/yourgroup/vo
-- **Opensplating:** https://github.com/yourgroup/opensplating
-- **U-net:** https://github.com/yourgroup/u-net
+- **VO:** https://github.com/Evelyn4k4k/AAE5303-ChatGPT_spokesperson-group-Project/tree/main/modules/vo
+- **Opensplating:** https://github.com/Evelyn4k4k/AAE5303-ChatGPT_spokesperson-group-Project/tree/main/modules/reconstruction
+- **U-net:** https://github.com/Evelyn4k4k/AAE5303-ChatGPT_spokesperson-group-Project/tree/main/modules/segmentation
 
 ---
