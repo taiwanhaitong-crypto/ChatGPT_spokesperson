@@ -40,7 +40,7 @@ We chose **ChatGPT_spokesperson** because we do not understand this course and a
 ---
 
 ## 📦 Group Projects
-- **(group) Final project:** https://github.com/yourgroup/final-project
+- **(group) Final project:** https://github.com/Evelyn4k4k/AAE5303-ChatGPT_spokesperson-group-Project
 - **VO:** https://github.com/yourgroup/vo
 - **Opensplating:** https://github.com/yourgroup/opensplating
 - **U-net:** https://github.com/yourgroup/u-net
