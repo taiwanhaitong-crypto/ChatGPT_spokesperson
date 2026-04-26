@@ -1,4 +1,4 @@
-<img width="1045" height="199" alt="image" src="https://github.com/user-attachments/assets/a654a6a3-3314-4800-bc5f-ee271d5ce6d7" /># ChatGPT_spokesperson
+# ChatGPT_spokesperson
 # Group Information
 # 📣 ChatGPT_spokesperson
 
